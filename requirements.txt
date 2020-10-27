@@ -40,7 +40,7 @@ coloredlogs==10.0
 comtypes==1.1.7
 constantly==15.1.0
 contextlib2==0.6.0
-cryptography==2.7
+cryptography==3.2
 cycler==0.10.0
 cymem==2.0.3
 Cython==0.29.13
