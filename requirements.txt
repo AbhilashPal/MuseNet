@@ -221,7 +221,7 @@ regex==2019.12.9
 requests==2.21.0
 requests-toolbelt==0.9.1
 rope==0.14.0
-rsa==4.0
+rsa==4.7
 ruamel-yaml==0.15.46
 ruamel.yaml==0.15.100
 s3transfer==0.2.1
